@@ -6,14 +6,14 @@ Writes one original fortune-cookie line for a software developer to
 
 Craft notes: the line works against the judge's criteria because it reads
 like a real fortune cookie (a short, second-person-sounding aphorism), it is
-true about a developer's day (every TODO left in the code is a note someone
-must read later), and the twist lands at the end — the stranger is
-future-you, so the fortune is a gentle warning about your own code.
+true about a developer's day (code outlives the memory of writing it), and
+the twist lands at the end — the detective following your clues is future-
+you, so the fortune is a gentle warning to comment for your own sake.
 """
 
 import os
 
-ENTRY = "Every TODO you leave is a letter to a stranger who is you, later."
+ENTRY = "Your code will outlive your memory of writing it, so comment like you are leaving clues for a detective who is you."
 
 
 def main():

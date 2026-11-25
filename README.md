@@ -8,9 +8,9 @@ An entry for the [Fortune Cookie Wisdom for Developers](https://make.fun/bounty/
 
 ## The entry
 
-> Every TODO you leave is a letter to a stranger who is you, later.
+> Your code will outlive your memory of writing it, so comment like you are leaving clues for a detective who is you.
 
-Every developer leaves TODOs in the code, and every developer has returned months later to a TODO they no longer understand — written by a past self who feels like a stranger. The line turns that everyday truth around: the stranger you are writing to is you.
+Every developer has returned months later to code they no longer understand — written by a past self who feels like a stranger. The line turns that everyday truth around: the detective following your clues is you.
 
 ## How to run
 
