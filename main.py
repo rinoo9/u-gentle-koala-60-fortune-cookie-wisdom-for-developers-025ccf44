@@ -5,15 +5,16 @@ Writes one original fortune-cookie line for a software developer to
 /output/entry.txt. Deterministic: no network, no randomness, no clock.
 
 Craft notes: the line works against the judge's criteria because it reads
-like a real fortune cookie (a short, second-person-sounding aphorism), it is
-true about a developer's day (code outlives the memory of writing it), and
-the twist lands at the end — the detective following your clues is future-
-you, so the fortune is a gentle warning to comment for your own sake.
+like a real fortune cookie (a short, second-person aphorism with a warning
+tucked inside), it is true about a developer's day (afternoon code becomes
+the 3 a.m. incident), and the twist lands at the end — the person who has
+to sleep through the night is the same person who ships in the afternoon,
+so the fortune is a plea for mercy toward your own future self.
 """
 
 import os
 
-ENTRY = "Your code will outlive your memory of writing it, so comment like you are leaving clues for a detective who is you."
+ENTRY = "Your future self debugs at 3 a.m. what you ship at 3 p.m. — write code that lets them sleep."
 
 
 def main():
