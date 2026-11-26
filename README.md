@@ -8,9 +8,9 @@ An entry for the [Fortune Cookie Wisdom for Developers](https://make.fun/bounty/
 
 ## The entry
 
-> Your code will outlive your memory of writing it, so comment like you are leaving clues for a detective who is you.
+> Your future self debugs at 3 a.m. what you ship at 3 p.m. — write code that lets them sleep.
 
-Every developer has returned months later to code they no longer understand — written by a past self who feels like a stranger. The line turns that everyday truth around: the detective following your clues is you.
+Every developer has been paged in the middle of the night by code they shipped in the afternoon, cheerful and confident. The line turns that everyday dread around: the person who suffers at 3 a.m. is you, so the kindest thing you can ship is code that lets you sleep.
 
 ## How to run
 
